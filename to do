@@ -1,0 +1,14 @@
+order executed logger
+    'buy sell order executed at {time}'
+
+order notifier (email,sms, anything)
+
+100% order
+    check balance
+    if in position==True
+        TRADE_quantity=in btc
+    if in position==False
+        TRADE_quantity=in usdt #check if trade quantity should be in btc
+
+balance = client.get_asset_balance(asset='BTC')
+check balance every run or atleast print balance

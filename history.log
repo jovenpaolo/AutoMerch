@@ -1,0 +1,268 @@
+23/07/2021 12:05:29 Starting new HTTPS connection (1): api.binance.us:443
+23/07/2021 12:05:30 https://api.binance.us:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 12:05:40 error from callback <function on_close at 0x7f31c6cfa670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 12:05:44 Starting new HTTPS connection (1): api.binance.us:443
+23/07/2021 12:05:45 https://api.binance.us:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 12:11:00 Resetting dropped connection: api.binance.us
+23/07/2021 12:11:59 Starting new HTTPS connection (2): api.binance.us:443
+23/07/2021 12:12:05 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:13:00 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:18:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:19:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:21:00 Resetting dropped connection: api.binance.us
+23/07/2021 12:25:00 Starting new HTTPS connection (3): api.binance.us:443
+23/07/2021 12:25:11 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:26:01 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:31:00 Resetting dropped connection: api.binance.us
+23/07/2021 12:32:00 Starting new HTTPS connection (4): api.binance.us:443
+23/07/2021 12:32:06 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:33:00 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:34:00 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:35:00 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:36:01 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:38:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:40:01 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:42:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:43:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:47:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:48:01 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:50:00 Resetting dropped connection: api.binance.us
+23/07/2021 12:51:00 Starting new HTTPS connection (5): api.binance.us:443
+23/07/2021 12:51:06 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:53:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 12:55:01 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:56:00 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:57:00 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:58:01 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 12:58:38 error from callback <function on_close at 0x7f13cee9f670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 14:26:25 Starting new HTTPS connection (1): api.binance.us:443
+23/07/2021 14:26:48 Starting new HTTPS connection (1): api.binance.us:443
+23/07/2021 14:26:51 https://api.binance.us:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 14:27:01 error from callback <function on_close at 0x7efd3d7de670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 14:27:15 Starting new HTTPS connection (1): api.binance.us:443
+23/07/2021 14:27:15 https://api.binance.us:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 14:32:00 Resetting dropped connection: api.binance.us
+23/07/2021 14:32:15 BOUGHT BTC
+23/07/2021 14:36:00 Starting new HTTPS connection (2): api.binance.us:443
+23/07/2021 14:36:16 https://api.binance.us:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 14:36:16 BOUGHT BTC
+23/07/2021 14:38:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 14:42:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 14:48:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 14:48:38 error from callback <function on_close at 0x7f7bbfa41670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 14:48:43 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 14:49:02 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 14:49:20 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 14:49:41 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 14:49:51 error from callback <function on_close at 0x7fa372318670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 14:50:07 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 14:50:26 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 14:50:28 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 14:55:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 14:57:00 Resetting dropped connection: api.binance.com
+23/07/2021 14:57:10 BOUGHT BTC
+23/07/2021 14:58:00 Starting new HTTPS connection (2): api.binance.com:443
+23/07/2021 14:58:10 BOUGHT BTC
+23/07/2021 15:03:00 Starting new HTTPS connection (3): api.binance.com:443
+23/07/2021 15:03:10 BOUGHT BTC
+23/07/2021 15:05:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:06:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:07:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:08:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:09:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:10:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:12:00 Starting new HTTPS connection (4): api.binance.com:443
+23/07/2021 15:12:10 BOUGHT BTC
+23/07/2021 15:13:01 Starting new HTTPS connection (5): api.binance.com:443
+23/07/2021 15:13:11 BOUGHT BTC
+23/07/2021 15:15:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:17:00 Starting new HTTPS connection (6): api.binance.com:443
+23/07/2021 15:17:10 https://api.binance.com:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 15:17:10 BOUGHT BTC
+23/07/2021 15:18:00 https://api.binance.com:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 15:18:00 BOUGHT BTC
+23/07/2021 15:26:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:29:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:30:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 15:33:00 Resetting dropped connection: api.binance.com
+23/07/2021 15:33:10 https://api.binance.com:443 "POST /api/v3/order/test HTTP/1.1" 401 46
+23/07/2021 15:33:10 BOUGHT BTC
+23/07/2021 15:33:33 error from callback <function on_close at 0x7f7d9f2fc670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 16:12:42 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:12:53 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:13:03 error from callback <function on_close at 0x7f6ba2fe5670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 16:13:08 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:13:17 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:13:32 error from callback <function on_close at 0x7f8cd885f670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 16:13:37 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:13:56 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:14:06 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:14:21 error from callback <function on_close at 0x7f7b4fda6670>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 16:14:57 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:15:11 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:15:24 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:15:44 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:15:44 https://api.binance.com:443 "GET /api/v3/account?timestamp=1627028144728&signature=8c08e86326ebe9a673873b206e4e8d5d17afaf8014bf413627d8197ce2aff19e HTTP/1.1" 401 70
+23/07/2021 16:16:10 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:16:25 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:16:25 https://api.binance.com:443 "GET /api/v3/account?timestamp=1627028185456&signature=c47cf466c79ccb9c12a546d420a04408e7e9b0f55852d329c705b8c4ae0eda7b HTTP/1.1" 401 70
+23/07/2021 16:19:07 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:19:22 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:19:43 Starting new HTTPS connection (1): api.binance.com:443
+23/07/2021 16:19:58 https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:19:58 https://api.binance.com:443 "GET /api/v3/account?timestamp=1627028398871&signature=8091a5a032b443ab0e29f0d76f41fb6c4951ea70fcd0cf75e8f601aef7d1a6a6 HTTP/1.1" 401 70
+23/07/2021 16:21:27 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 16:21:48 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 16:21:58 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:21:58 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627028518263&signature=3e4aff18b9856ff6e46472d1013839045b744d23e5a9ff1edf1aa0f14c01112a HTTP/1.1" 200 249
+23/07/2021 16:28:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:29:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:35:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:36:02 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:43:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:44:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:47:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:48:02 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:49:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:50:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:52:01 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:52:41 error from callback <function on_close at 0x7fe1b81858b0>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 16:53:00 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 16:53:10 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 16:53:10 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627030390139&signature=be54e6ab9bcc2641ec05010c20396eea5da2a2e9cfeceabe017f690df5a26822 HTTP/1.1" 200 249
+23/07/2021 16:56:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 16:57:00 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 400 38
+23/07/2021 16:57:00 BOUGHT BTC
+23/07/2021 17:00:01 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:01:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:01:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:02:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:02:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:03:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:03:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:10:06 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:11:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:13:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:13:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:14:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:18:24 error from callback <function on_close at 0x7f8184beb8b0>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 17:18:33 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 17:19:54 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 17:20:02 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 17:20:02 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627032002299&signature=98ace9496f626b9cec0c08a129fd2db2b167f9e95b2d35dbed2325417822043d HTTP/1.1" 200 249
+23/07/2021 17:27:03 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:28:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:28:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:29:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:29:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:30:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:30:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:31:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:31:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:32:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:35:07 Resetting dropped connection: testnet.binance.vision
+23/07/2021 17:36:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:37:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:39:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:45:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:46:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:49:02 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 17:49:43 error from callback <function on_close at 0x7fc3d31fd8b0>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 17:50:25 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 17:50:31 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 17:50:31 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627033831264&signature=d3c8f00ee36f6d51b42e707183bea95a5dff1a95b9558c433119f53b68578db8 HTTP/1.1" 200 249
+23/07/2021 17:59:30 error from callback <function on_close at 0x7f39e58948b0>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 18:00:50 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 18:00:56 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 18:00:56 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627034456078&signature=e052b88a0ddabed971e650ffe1667a08ab7ddf80d8a84788883e2bdd31e26996 HTTP/1.1" 200 249
+23/07/2021 18:02:00 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 400 38
+23/07/2021 18:02:07 error from callback <function on_close at 0x7fa2550be8b0>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 18:02:39 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 18:02:45 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 18:02:45 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627034565091&signature=ee68a0a16e3321a65374b8ed1f1188392ae6ecc7f11ef6be04e4a56af763e23a HTTP/1.1" 200 249
+23/07/2021 18:05:02 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:09:01 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:11:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:12:06 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:13:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:14:03 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:14:03 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:17:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:18:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:18:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:20:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:22:03 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:23:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:23:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:25:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:29:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:31:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:32:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:32:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:33:02 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:33:02 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:44:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:44:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:45:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:45:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:46:01 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:56:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 18:58:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:07:01 Resetting dropped connection: testnet.binance.vision
+23/07/2021 19:07:12 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 400 79
+23/07/2021 19:08:06 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 349
+23/07/2021 19:08:06 BOUGHT BTC
+23/07/2021 19:09:04 Bull sign, but you already own it, nothing to do.
+23/07/2021 19:13:00 Resetting dropped connection: testnet.binance.vision
+23/07/2021 19:13:06 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 400 79
+23/07/2021 19:15:06 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 331
+23/07/2021 19:15:06 SOLD BTC
+23/07/2021 19:16:04 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:16:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:19:03 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:20:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:21:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:22:07 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:23:03 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:25:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:26:01 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:27:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:29:05 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:31:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:32:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:37:00 Bear warning, but we don't own any. Nothing to do.
+23/07/2021 19:37:22 error from callback <function on_close at 0x7fca404558b0>: on_close() takes 1 positional argument but 3 were given
+23/07/2021 19:37:26 Starting new HTTPS connection (1): testnet.binance.vision:443
+23/07/2021 19:37:26 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+23/07/2021 19:37:27 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627040246743&signature=0375a857f57dd375cb21025355f19b4ce23e99e3446fe30da89353fc428eea2c HTTP/1.1" 200 259
+23/07/2021 19:37:31 error from callback <function on_close at 0x7fc3bb66a8b0>: on_close() takes 1 positional argument but 3 were given
+25/07/2021 12:08:43 Starting new HTTPS connection (1): testnet.binance.vision:443
+25/07/2021 12:08:44 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+25/07/2021 12:08:44 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627186124157&signature=0dfbf1fee2980f688e20781fd4a1bdb91079dc0d317fad3ad43a26786baf176b HTTP/1.1" 200 259
+25/07/2021 12:14:21 error from callback <function on_close at 0x7f6f205988b0>: on_close() takes 1 positional argument but 3 were given
+25/07/2021 12:15:04 Starting new HTTPS connection (1): testnet.binance.vision:443
+25/07/2021 12:15:05 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+25/07/2021 12:15:05 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627186505027&signature=b03b8716798facbcae86e8f4e0fb7305811d82f0cd1b982d0619c2ab16271cb7 HTTP/1.1" 200 259
+25/07/2021 13:30:02 Resetting dropped connection: testnet.binance.vision
+25/07/2021 13:30:03 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 602
+25/07/2021 13:30:03 BOUGHT BTC
+25/07/2021 14:00:07 Bull sign, but you already own it, nothing to do.
+25/07/2021 14:00:07 Bull sign, but you already own it, nothing to do.
+25/07/2021 14:30:01 Bull sign, but you already own it, nothing to do.
+25/07/2021 15:30:01 Resetting dropped connection: testnet.binance.vision
+25/07/2021 15:30:01 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 412
+25/07/2021 15:30:01 SOLD BTC
+25/07/2021 15:30:01 Bear warning, but we don't own any. Nothing to do.
+25/07/2021 16:27:32 error from callback <function on_close at 0x7fb06a8f18b0>: on_close() takes 1 positional argument but 3 were given
+25/07/2021 16:27:46 Starting new HTTPS connection (1): testnet.binance.vision:443
+25/07/2021 16:27:47 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+25/07/2021 16:27:47 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627201667422&signature=0c1e560d4e8e33150be948db95bba55fa76cf86fff596ec6e5f65a793b5c0690 HTTP/1.1" 200 265
+25/07/2021 17:00:00 Bear warning, but we don't own any. Nothing to do.
+25/07/2021 17:30:02 Bear warning, but we don't own any. Nothing to do.
+25/07/2021 18:00:02 Bear warning, but we don't own any. Nothing to do.
+25/07/2021 19:00:03 Bear warning, but we don't own any. Nothing to do.
+25/07/2021 19:30:02 Bear warning, but we don't own any. Nothing to do.
+25/07/2021 19:30:02 Bear warning, but we don't own any. Nothing to do.
+25/07/2021 20:00:02 Resetting dropped connection: testnet.binance.vision
+25/07/2021 20:00:03 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 400 77
+25/07/2021 20:29:31 error from callback <function on_close at 0x7f882b44a8b0>: on_close() takes 1 positional argument but 3 were given
