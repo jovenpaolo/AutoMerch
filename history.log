@@ -266,3 +266,7 @@
 25/07/2021 20:00:02 Resetting dropped connection: testnet.binance.vision
 25/07/2021 20:00:03 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 400 77
 25/07/2021 20:29:31 error from callback <function on_close at 0x7f882b44a8b0>: on_close() takes 1 positional argument but 3 were given
+27/07/2021 19:24:02 Starting new HTTPS connection (1): testnet.binance.vision:443
+27/07/2021 19:24:02 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+27/07/2021 19:24:02 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627385042642&signature=9e1e82f0af48eeb66280fcb99653594f34558398ef7159b5ffdcb57205e40f15 HTTP/1.1" 200 265
+27/07/2021 19:24:05 error from callback <function on_close at 0x7f06ebede280>: on_close() takes 1 positional argument but 3 were given
