@@ -14,22 +14,25 @@ logging.basicConfig(filename=LOG,
  datefmt='%d/%m/%Y %H:%M:%S')  
 
 #SOCKET = "wss://stream.binance.com:9443/ws/btcusdt@kline_1m"
-SOCKET = "wss://testnet.binance.vision/ws/btcusdt@kline_30m"
+SOCKET = "wss://testnet.binance.vision/ws/btcusdt@kline_1m"
 
 TRADE_SYMBOL = 'BTCUSDT'
-TRADE_QUANTITY = 0.5
+#TRADE_QUANTITY = 0.5
 
 closes = []
 opens = []
 highs = []
 lows = []
-threshold = 0.01
+threshold = 0.001
 in_position = False
 
 client = Client(config.API_KEY, config.API_SECRET, testnet= True)
 
-balance = client.get_asset_balance(asset='BTC')
-print(balance)
+balancebtc = client.get_asset_balance(asset='BTC')
+balanceusdt = client.get_asset_balance(asset='USDT')
+
+print(balancebtc)
+print(balanceusdt)
 #create def for computing exchange rates
 #quantity=100%
 def order(side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
@@ -114,6 +117,8 @@ def on_message(ws, message):
                 else:
                     print("Bullish! Buy! Buy! Buy!")
                     # put binance buy order logic here
+                    usdtprice = client.get_asset_balance(asset='USDT')
+                    TRADE_QUANTITY=round(closes[2]/float(usdtprice['free']), 4)
                     order_succeeded = order(SIDE_BUY, TRADE_QUANTITY, TRADE_SYMBOL)
                     
                     if order_succeeded:
@@ -123,7 +128,8 @@ def on_message(ws, message):
                 if in_position:
                     print("Bear Warning! Sell! Sell! Sell!")
                     # put binance sell logic here
-                    order_succeeded = order(SIDE_SELL, TRADE_QUANTITY, TRADE_SYMBOL)
+                    TRADE_QUANTITY = client.get_asset_balance(asset='BTC')
+                    order_succeeded = order(SIDE_SELL, float(TRADE_QUANTITY['free']), TRADE_SYMBOL)
                     if order_succeeded:
                         logging.info('SOLD BTC')
                         in_position = False

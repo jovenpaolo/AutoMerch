@@ -270,3 +270,124 @@
 27/07/2021 19:24:02 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
 27/07/2021 19:24:02 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1627385042642&signature=9e1e82f0af48eeb66280fcb99653594f34558398ef7159b5ffdcb57205e40f15 HTTP/1.1" 200 265
 27/07/2021 19:24:05 error from callback <function on_close at 0x7f06ebede280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 10:15:38 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 10:15:39 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 10:15:39 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629339339316&signature=aa98048d8d4c1c1554ac4267c3715a40671c89f6dc5199c8a8d025b4c87d5540 HTTP/1.1" 200 248
+19/08/2021 10:17:57 error from callback <function on_close at 0x7fb56b283280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 10:25:33 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 10:25:33 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 10:25:33 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629339933698&signature=1c502150005985118c2c40882ab73c19a97803b8c266d0c4d51346aed602763f HTTP/1.1" 200 248
+19/08/2021 10:29:03 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 10:32:07 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 10:34:00 Resetting dropped connection: testnet.binance.vision
+19/08/2021 10:34:00 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629340440277&signature=1f5910ec25768a16e9609b91546241593b9d7ecb7b9e8e726184c8f48ddf587a HTTP/1.1" 200 248
+19/08/2021 10:34:00 error from callback <function on_message at 0x7f30b5286040>: unsupported operand type(s) for /: 'str' and 'dict'
+19/08/2021 10:35:01 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629340501512&signature=8a7ca198dc22840d72fdadcd3fa8b852d85e39a539eb20b7d86157180deffac0 HTTP/1.1" 200 248
+19/08/2021 10:35:01 error from callback <function on_message at 0x7f30b5286040>: unsupported operand type(s) for /: 'str' and 'dict'
+19/08/2021 10:35:10 error from callback <function on_close at 0x7f30b52c4280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 10:39:28 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 10:39:28 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 10:39:29 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629340768983&signature=6b5b2a340cb7a1fd4cb03d036b37ffc59e71500e74c581dbdaf96f3ca097c47e HTTP/1.1" 200 248
+19/08/2021 10:45:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 10:47:07 Resetting dropped connection: testnet.binance.vision
+19/08/2021 10:47:07 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629341227515&signature=45b015d18c53705a36b51fe79837083366cfc96af141a0893979cf456cc653d4 HTTP/1.1" 200 248
+19/08/2021 10:47:07 error from callback <function on_message at 0x7f8ade436040>: unsupported operand type(s) for /: 'float' and 'dict'
+19/08/2021 10:47:13 error from callback <function on_close at 0x7f8ade473280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 10:55:18 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 10:55:18 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 10:55:19 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629341718840&signature=311414912ce116d2c776a8f7ad6a816eaf52702c831798ceb046daacf8af98b1 HTTP/1.1" 200 248
+19/08/2021 11:01:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:04:01 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:07:06 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:08:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:09:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:12:01 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:13:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:16:01 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:21:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:23:01 Resetting dropped connection: testnet.binance.vision
+19/08/2021 11:23:02 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629343381784&signature=7db2333e6b72e00b8bf7ba81b2b5ed7fe373b528a8fe49e92a2a3b65717b5d1f HTTP/1.1" 200 248
+19/08/2021 11:23:02 error from callback <function on_message at 0x7fee5212c040>: unsupported operand type(s) for /: 'float' and 'dict'
+19/08/2021 11:25:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:27:01 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629343620712&signature=17b3d6ab0d691e54de9e8d9fb0989d919578dc8ebc9dd04f9fa33e05a8f3c855 HTTP/1.1" 200 248
+19/08/2021 11:27:01 error from callback <function on_message at 0x7fee5212c040>: unsupported operand type(s) for /: 'float' and 'dict'
+19/08/2021 11:27:36 error from callback <function on_close at 0x7fee5216a280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 11:28:40 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 11:28:41 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 11:28:41 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629343721547&signature=461999b7538cacfb1bfb56eaa9e542f578abab49cad3a78ad9bb078732d7cfad HTTP/1.1" 200 248
+19/08/2021 11:32:05 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:34:00 Resetting dropped connection: testnet.binance.vision
+19/08/2021 11:34:01 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629344040645&signature=9181df0bc07836da32ffc847b610e50736c93df6c2a67e1e4aec20ad9aebfa2a HTTP/1.1" 200 248
+19/08/2021 11:34:01 error from callback <function on_message at 0x7fcbb816b040>: unsupported operand type(s) for /: 'float' and 'dict'
+19/08/2021 11:34:14 error from callback <function on_close at 0x7fcbb81a9280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 11:34:48 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 11:34:48 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 11:34:49 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629344088718&signature=8d897274adee88a4b80565525900a16e113b843cf3602423dcc81b028a1351d4 HTTP/1.1" 200 248
+19/08/2021 11:40:01 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:41:05 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 11:46:00 Resetting dropped connection: testnet.binance.vision
+19/08/2021 11:46:01 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629344760738&signature=7afdc78612caeb7b3b082333408f9cd6a59bce50483b8328e78178dff442062d HTTP/1.1" 200 248
+19/08/2021 11:46:01 error from callback <function on_message at 0x7fca8c633040>: float() argument must be a string or a number, not 'dict'
+19/08/2021 11:47:01 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629344821563&signature=81dd4fbe268035df03624853fe8ea86797c7fd434bd9f7d5866c7d9bf7f42507 HTTP/1.1" 200 248
+19/08/2021 11:47:01 error from callback <function on_message at 0x7fca8c633040>: float() argument must be a string or a number, not 'dict'
+19/08/2021 11:48:00 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629344880480&signature=819fbf2b307a8ecb796f2aa7f70f2f6f35d527e9ec684e83d170f8f519a274cc HTTP/1.1" 200 248
+19/08/2021 11:48:00 error from callback <function on_message at 0x7fca8c633040>: float() argument must be a string or a number, not 'dict'
+19/08/2021 11:48:16 error from callback <function on_close at 0x7fca8c670280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 11:55:36 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 11:55:37 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 11:55:37 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629345337157&signature=a0a00ae7edecfe2479316faef65f6bbea1351e4edb044dfb77efd2655d2c6b2a HTTP/1.1" 200 248
+19/08/2021 11:59:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 12:00:04 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 12:03:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 12:05:05 Resetting dropped connection: testnet.binance.vision
+19/08/2021 12:05:06 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629345905535&signature=0581fbcb971a00c08beedf7e7642344f1f26c8f9354997c721c4ba335df23290 HTTP/1.1" 200 248
+19/08/2021 12:05:06 error from callback <function on_message at 0x7f4896fde040>: unsupported operand type(s) for /: 'float' and 'dict'
+19/08/2021 12:05:57 error from callback <function on_close at 0x7f489701c280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 20:03:57 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 20:03:58 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 20:03:58 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629374638455&signature=74bd4cd6bc69be0821a3e129a15b6d3513bdb5c909040e79ae8f5597d7faf2d4 HTTP/1.1" 200 248
+19/08/2021 20:04:15 error from callback <function on_close at 0x7f02f3951280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 20:05:33 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 20:05:33 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 20:05:34 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629374733827&signature=ad829b1372cb6d26bf298188f10e9f6e20d60348f8acfd94ad676ecb12bc3aac HTTP/1.1" 200 248
+19/08/2021 20:05:40 error from callback <function on_close at 0x7f26e3dcb280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 20:06:43 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 20:06:45 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 20:06:45 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629374805353&signature=a4268b1383299dab87f8a4787f5ee8aa3c74df6502bb9f78de66a0bb22d2a951 HTTP/1.1" 200 248
+19/08/2021 20:10:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 20:12:01 Resetting dropped connection: testnet.binance.vision
+19/08/2021 20:12:02 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629375121825&signature=4cb89212e168628a8e79bb351d9bcb49be1ce6c0d11746ef07d8f9c74d346f28 HTTP/1.1" 200 248
+19/08/2021 20:12:03 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 432
+19/08/2021 20:12:03 BOUGHT BTC
+19/08/2021 20:13:01 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:16:00 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:18:03 Resetting dropped connection: testnet.binance.vision
+19/08/2021 20:18:04 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629375483835&signature=70e43c68f50c200f1d0cd028dc500b4991229de505eeddf6d739ff3fa56d8a7a HTTP/1.1" 200 267
+19/08/2021 20:18:05 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 314
+19/08/2021 20:18:05 SOLD BTC
+19/08/2021 20:19:00 Bear warning, but we don't own any. Nothing to do.
+19/08/2021 20:21:01 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629375660743&signature=d2be531c0684a7d2278f3ec3562298ffa5e1e2ebf8262fa7c443457aca8d160e HTTP/1.1" 200 260
+19/08/2021 20:21:01 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 440
+19/08/2021 20:21:01 BOUGHT BTC
+19/08/2021 20:22:01 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:23:02 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:24:03 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:27:00 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:28:02 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:29:00 Bull sign, but you already own it, nothing to do.
+19/08/2021 20:31:00 Resetting dropped connection: testnet.binance.vision
+19/08/2021 20:31:05 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629376260308&signature=b4f8ebb70b8ace44666e01445998b4dd7b009442f1d1c935d9b4a16a1496d61c HTTP/1.1" 400 79
+19/08/2021 20:31:05 error from callback <function on_message at 0x7efcb16f9040>: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+19/08/2021 20:34:02 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629376441737&signature=d1f4b1d1a1c9ad790cb3c985e8e30905521d37786c09685ad3fffd06e46bffdb HTTP/1.1" 200 267
+19/08/2021 20:34:02 https://testnet.binance.vision:443 "POST /api/v3/order HTTP/1.1" 200 377
+19/08/2021 20:34:02 SOLD BTC
+19/08/2021 20:34:07 error from callback <function on_close at 0x7efcb1736280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 20:34:12 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 20:34:13 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 20:34:13 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629376453380&signature=aaa861e52b5e21dfe2c83e84855f3a9127697cf4e082442b2ec487d42e87ee74 HTTP/1.1" 200 261
+19/08/2021 20:34:27 error from callback <function on_close at 0x7fbaca5fc280>: on_close() takes 1 positional argument but 3 were given
+19/08/2021 20:35:04 Starting new HTTPS connection (1): testnet.binance.vision:443
+19/08/2021 20:35:04 https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+19/08/2021 20:35:04 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629376504518&signature=cc5356c130a228f7caec4cf4eb62a72aeba2f17f37b7b0fc58e1c0db374d4109 HTTP/1.1" 200 261
+19/08/2021 20:35:05 https://testnet.binance.vision:443 "GET /api/v3/account?timestamp=1629376504862&signature=14a1177348d11c89d7d4fb081d34ea2df00533d36df0e9886985a03ec5e80a0f HTTP/1.1" 200 261
+19/08/2021 20:35:07 error from callback <function on_close at 0x7f21806d8280>: on_close() takes 1 positional argument but 3 were given
